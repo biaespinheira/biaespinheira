@@ -1,41 +1,36 @@
-<h1 align="center">Olá! Eu sou Bia Espinheira </h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="center">
-  <i>Desenvolvedora apaixonado por tudo que envolva lógica, matemática e criatividade</i>
+<p align="left"> 
+  <b>Olá! Me chamo Beatriz Espinheira 👩🏻‍💻</b><br>
+Atualmente sou estudante de Ciência da Computação na UFBA e bolsista de Iniciação Científica em computação gráfica, com foco em reconstrução 3D usando Gaussian Splatting.<br>
+Minha stack inclui Python, C++, JavaScript, Java, Pandas e fundamentos de ciência de dados.<br>
+Tenho grande interesse em tudo que envolve dados, lógica e IA, e busco sempre aprender e aplicar novos conhecimentos na prática.
 </p>
 
----
-
-### Sobre mim
-
-- 🔭 Atualmente realizo pesquisa em 3D Gaussian Splatting.
-- 🌱 Estudando mais sobre: Ciência de dados e Machine Learning
-- 📫 Como me encontrar: linkedin.com/in/beatrizespinheira
----
-
-### Tecnologias & Ferramentas
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=biaespinheira&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaespinheira&layout=compact&theme=radical"/>
+<p align="left">
+  🦄 Linguagens: Phyton, C++, Java, Javascript, HTML, CSS.
 </p>
 
----
+<p align="left">
+  💼 Ferramentas: 
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square)
+  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
+  ![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+</p>
 
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=biaespnheira@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizespinheira/" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bia.espinheira/" alt="Instagram"/></a>
+</p>
