@@ -1,10 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  <b>Olá! Me chamo Beatriz Espinheira 👩🏻‍💻</b><br>
-Atualmente sou estudante de Ciência da Computação na UFBA e bolsista de Iniciação Científica em computação gráfica, com foco em reconstrução 3D usando Gaussian Splatting.<br>
-Minha stack inclui Python, C++, JavaScript, Java, Pandas e fundamentos de ciência de dados.<br>
-Tenho grande interesse na área de Dados e Inteligência Artificial, e busco sempre aprender tudo que envolve programação, lógica e criatividade!
+  Olá! Me chamo <b>Beatriz Espinheira</b>👋 <br>
+Estudante de Ciência da Computação na UFBA e bolsista de Iniciação Científica em computação gráfica, com foco em reconstrução 3D via Gaussian Splatting. Tenho experiência com Python, C++, JavaScript, Java e ferramentas de ciência de dados como Pandas. Sou apaixonado por Dados, Inteligência Artificial e tudo que envolva lógica, programação e criatividade!
 </p>
 
 <p align="left">
