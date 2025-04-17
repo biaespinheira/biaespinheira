@@ -4,7 +4,7 @@
   <b>Olá! Me chamo Beatriz Espinheira 👩🏻‍💻</b><br>
 Atualmente sou estudante de Ciência da Computação na UFBA e bolsista de Iniciação Científica em computação gráfica, com foco em reconstrução 3D usando Gaussian Splatting.<br>
 Minha stack inclui Python, C++, JavaScript, Java, Pandas e fundamentos de ciência de dados.<br>
-Tenho grande interesse em tudo que envolve dados, lógica e IA, e busco sempre aprender e aplicar novos conhecimentos na prática.
+Tenho grande interesse na área de Dados e Inteligência Artificial, e busco sempre aprender tudo que envolve programação, lógica e criatividade!
 </p>
 
 <p align="left">
@@ -12,18 +12,11 @@ Tenho grande interesse em tudo que envolve dados, lógica e IA, e busco sempre a
 </p>
 
 <p align="left">
-  💼 Ferramentas: 
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square)
-  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
-  ![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  💼 Ferramentas: Pandas, Matplotlib,Scikit-learn,TensorFlow,Jupyter,Google Colab, GitHub.
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato! ⤵️
 </p>
 
 <p align="left">
