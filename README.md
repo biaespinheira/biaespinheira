@@ -1,19 +1,19 @@
-<h1 align="center">Olá! Eu sou Beatriz Espinheira </h1>
+<h1 align="center">Olá! Eu sou Bia Espinheira </h1>
 
 <p align="center">
-  <i>Desenvolvedora apaixonado por Machine Learning, Data Science e aprender coisas novas todos os dias.</i>
+  <i>Desenvolvedora apaixonado por tudo que envolva lógica, matemática e criatividade</i>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
-- 🔭 Atualmente realizo pesquisa em reconstrução 3D de cenários em tempo real.
+- 🔭 Atualmente realizo pesquisa em 3D Gaussian Splatting.
 - 🌱 Estudando mais sobre: Ciência de dados e Machine Learning
 - 📫 Como me encontrar: linkedin.com/in/beatrizespinheira
 ---
 
-### 🧰 Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
