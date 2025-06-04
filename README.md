@@ -10,10 +10,6 @@
 </p>
 
 <p align="left">
-  💼 Tools: Pandas, Matplotlib, Scikit-learn, TensorFlow, Jupyter, Google Colab, GitHub.
-</p>
-
-<p align="left">
   💌 Get in touch! ⤵️
 </p>
 
