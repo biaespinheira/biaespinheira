@@ -10,7 +10,8 @@
 </p>
 
 <p align="left">
-  💌 Get in touch! ⤵️
+  
+  Get in touch! ⤵️
 </p>
 
 <p align="left">
